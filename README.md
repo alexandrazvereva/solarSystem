@@ -1,2 +1,9 @@
 # solarSystem
-solar system model html+css
+
+Задание:
+1 Сделайте форк этого репозитория
+2 Работа ведется в ветке educational
+3 Объедините css файлы в один, подключите его к index.html
+4 Проверьте вид приложения в браузере
+5 Сделайте деплой на gh-pages
+6 Создайте pull request из educational в main
